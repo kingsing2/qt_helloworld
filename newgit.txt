@@ -1,3 +1,0 @@
-this is a new git.
-this file is used to check if binary files will be committed each time you change this file.
-add a new line.
