@@ -18,12 +18,13 @@
     <rect>
      <x>70</x>
      <y>40</y>
-     <width>131</width>
-     <height>21</height>
+     <width>221</width>
+     <height>81</height>
     </rect>
    </property>
    <property name="text">
-    <string>hello world! 你好Qt</string>
+    <string>hello world! 你好Qt
+tututu</string>
    </property>
   </widget>
  </widget>
